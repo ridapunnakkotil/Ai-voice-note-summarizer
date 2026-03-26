@@ -23,11 +23,11 @@ Backend:
 cd python-backend
 venv\Scripts\activate
 python -m uvicorn main:app --reload
+#
 
-**Demo video**
+**Demo video** : 
 Link : https://drive.google.com/file/d/1z-U5JLyyDmS07qACpygxlCfcFdn0LKzi/view?usp=sharing
 
-**Author**
-Rida Punnakkotil
+**Author** : 
 GitHub: https://github.com/ridapunnakkotil
 
